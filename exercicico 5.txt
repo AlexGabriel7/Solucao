@@ -1,0 +1,4 @@
+5) Para achar qual interruptor esta ligado a qual lampada, nos podemos ligar o primeiro initerruptor e deixar ligado alguns minutos, para aquecer a lampada.
+Logo depois de alguns miniutos, podemos desligar o primeiro interruptor e ligar o segundo. Após, é só ir para a sala de lampadas. Quando chegar, você deve 
+começar pelas lampadas apagadas e  verificiar qual esta quente e qual esta fria. A que estiver quente e apagagda é correspondente ao primeiro interruptor, a 
+que estiver apagada e fria é correspondente ao terceiro interruptor e a que estiver acesa é correspondente ao segundo initerruptor.

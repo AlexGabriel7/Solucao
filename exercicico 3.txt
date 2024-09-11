@@ -1,0 +1,16 @@
+O valor da soma é 42, como mostra o código abaixo.
+#include <stdio.h>
+
+int main(){
+
+    int soma =0;
+
+    for(int i=1; i<12; i++){
+        i = i+1;
+        soma = soma + i;
+    }
+
+    printf("o valor da soma é %d", soma);
+    return 0;
+
+}
